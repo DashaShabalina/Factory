@@ -1,0 +1,860 @@
+июн. 22, 2020 9:04:43 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 0(Body: 5, Engine: 9, Accessory: 0)
+июн. 22, 2020 9:04:43 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 4(Body: 14, Engine: 13, Accessory: 4)
+июн. 22, 2020 9:04:43 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 3(Body: 8, Engine: 12, Accessory: 3)
+июн. 22, 2020 9:04:43 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 1(Body: 6, Engine: 10, Accessory: 1)
+июн. 22, 2020 9:04:43 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 2(Body: 7, Engine: 11, Accessory: 2)
+июн. 22, 2020 9:04:44 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 5(Body: 20, Engine: 24, Accessory: 15)
+июн. 22, 2020 9:04:44 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 6(Body: 21, Engine: 25, Accessory: 16)
+июн. 22, 2020 9:04:44 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 7(Body: 22, Engine: 26, Accessory: 17)
+июн. 22, 2020 9:04:44 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 8(Body: 23, Engine: 27, Accessory: 18)
+июн. 22, 2020 9:04:44 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 9(Body: 29, Engine: 28, Accessory: 19)
+июн. 22, 2020 9:04:45 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 10(Body: 38, Engine: 33, Accessory: 39)
+июн. 22, 2020 9:04:45 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 13(Body: 37, Engine: 32, Accessory: 42)
+июн. 22, 2020 9:04:45 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 11(Body: 35, Engine: 30, Accessory: 40)
+июн. 22, 2020 9:04:45 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 12(Body: 36, Engine: 31, Accessory: 41)
+июн. 22, 2020 9:04:45 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 14(Body: 44, Engine: 34, Accessory: 43)
+июн. 22, 2020 9:04:46 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 15(Body: 53, Engine: 45, Accessory: 50)
+июн. 22, 2020 9:04:46 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 18(Body: 57, Engine: 48, Accessory: 53)
+июн. 22, 2020 9:04:46 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 17(Body: 56, Engine: 46, Accessory: 52)
+июн. 22, 2020 9:04:46 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 16(Body: 55, Engine: 46, Accessory: 51)
+июн. 22, 2020 9:04:46 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 19(Body: 59, Engine: 49, Accessory: 58)
+июн. 22, 2020 9:04:48 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 20(Body: 70, Engine: 60, Accessory: 65)
+июн. 22, 2020 9:04:48 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 23(Body: 73, Engine: 63, Accessory: 68)
+июн. 22, 2020 9:04:48 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 22(Body: 72, Engine: 62, Accessory: 66)
+июн. 22, 2020 9:04:48 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 21(Body: 71, Engine: 61, Accessory: 67)
+июн. 22, 2020 9:04:48 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 24(Body: 74, Engine: 64, Accessory: 69)
+июн. 22, 2020 9:04:49 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 27(Body: 87, Engine: 77, Accessory: 82)
+июн. 22, 2020 9:04:49 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 26(Body: 85, Engine: 76, Accessory: 81)
+июн. 22, 2020 9:04:49 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 25(Body: 85, Engine: 75, Accessory: 80)
+июн. 22, 2020 9:04:49 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 28(Body: 87, Engine: 78, Accessory: 83)
+июн. 22, 2020 9:04:49 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 29(Body: 89, Engine: 79, Accessory: 84)
+июн. 22, 2020 9:04:50 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 32(Body: 98, Engine: 92, Accessory: 99)
+июн. 22, 2020 9:04:50 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 31(Body: 99, Engine: 91, Accessory: 96)
+июн. 22, 2020 9:04:50 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 33(Body: 103, Engine: 93, Accessory: 101)
+июн. 22, 2020 9:04:50 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 30(Body: 95, Engine: 90, Accessory: 96)
+июн. 22, 2020 9:04:50 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 34(Body: 104, Engine: 94, Accessory: 102)
+июн. 22, 2020 9:04:51 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 35(Body: 110, Engine: 105, Accessory: 111)
+июн. 22, 2020 9:04:51 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 36(Body: 113, Engine: 106, Accessory: 112)
+июн. 22, 2020 9:04:51 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 38(Body: 116, Engine: 108, Accessory: 115)
+июн. 22, 2020 9:04:51 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 37(Body: 113, Engine: 107, Accessory: 112)
+июн. 22, 2020 9:04:51 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 39(Body: 118, Engine: 109, Accessory: 117)
+июн. 22, 2020 9:04:52 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 41(Body: 126, Engine: 120, Accessory: 126)
+июн. 22, 2020 9:04:52 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 42(Body: 126, Engine: 121, Accessory: 128)
+июн. 22, 2020 9:04:52 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 40(Body: 125, Engine: 119, Accessory: 124)
+июн. 22, 2020 9:04:52 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 43(Body: 129, Engine: 122, Accessory: 130)
+июн. 22, 2020 9:04:52 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 44(Body: 132, Engine: 123, Accessory: 131)
+июн. 22, 2020 9:04:53 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 47(Body: 143, Engine: 135, Accessory: 142)
+июн. 22, 2020 9:04:53 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 46(Body: 141, Engine: 134, Accessory: 139)
+июн. 22, 2020 9:04:53 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 48(Body: 145, Engine: 135, Accessory: 144)
+июн. 22, 2020 9:04:53 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 45(Body: 140, Engine: 133, Accessory: 138)
+июн. 22, 2020 9:04:53 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 49(Body: 147, Engine: 137, Accessory: 146)
+июн. 22, 2020 9:04:54 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 53(Body: 155, Engine: 151, Accessory: 157)
+июн. 22, 2020 9:04:54 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 52(Body: 159, Engine: 150, Accessory: 158)
+июн. 22, 2020 9:04:54 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 51(Body: 155, Engine: 149, Accessory: 153)
+июн. 22, 2020 9:04:54 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 50(Body: 154, Engine: 148, Accessory: 152)
+июн. 22, 2020 9:04:54 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 54(Body: 161, Engine: 160, Accessory: 156)
+июн. 22, 2020 9:04:55 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 56(Body: 171, Engine: 162, Accessory: 167)
+июн. 22, 2020 9:04:55 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 55(Body: 175, Engine: 166, Accessory: 163)
+июн. 22, 2020 9:04:55 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 58(Body: 174, Engine: 165, Accessory: 170)
+июн. 22, 2020 9:04:55 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 57(Body: 172, Engine: 164, Accessory: 173)
+июн. 22, 2020 9:04:55 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 59(Body: 176, Engine: 168, Accessory: 169)
+июн. 22, 2020 9:04:57 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 62(Body: 182, Engine: 179, Accessory: 188)
+июн. 22, 2020 9:04:57 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 64(Body: 185, Engine: 182, Accessory: 190)
+июн. 22, 2020 9:04:57 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 60(Body: 179, Engine: 177, Accessory: 186)
+июн. 22, 2020 9:04:57 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 61(Body: 181, Engine: 178, Accessory: 187)
+июн. 22, 2020 9:04:57 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 63(Body: 184, Engine: 180, Accessory: 189)
+июн. 22, 2020 9:04:59 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 65(Body: 192, Engine: 191, Accessory: 210)
+июн. 22, 2020 9:04:59 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 69(Body: 200, Engine: 199, Accessory: 214)
+июн. 22, 2020 9:04:59 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 66(Body: 196, Engine: 194, Accessory: 213)
+июн. 22, 2020 9:04:59 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 68(Body: 193, Engine: 198, Accessory: 211)
+июн. 22, 2020 9:04:59 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 67(Body: 194, Engine: 197, Accessory: 211)
+июн. 22, 2020 9:05:01 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 71(Body: 227, Engine: 225, Accessory: 237)
+июн. 22, 2020 9:05:01 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 74(Body: 209, Engine: 208, Accessory: 238)
+июн. 22, 2020 9:05:01 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 73(Body: 204, Engine: 206, Accessory: 236)
+июн. 22, 2020 9:05:01 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 70(Body: 203, Engine: 201, Accessory: 235)
+июн. 22, 2020 9:05:01 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 72(Body: 207, Engine: 205, Accessory: 236)
+июн. 22, 2020 9:05:03 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 76(Body: 241, Engine: 239, Accessory: 259)
+июн. 22, 2020 9:05:03 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 79(Body: 224, Engine: 222, Accessory: 262)
+июн. 22, 2020 9:05:03 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 78(Body: 221, Engine: 217, Accessory: 261)
+июн. 22, 2020 9:05:03 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 75(Body: 218, Engine: 215, Accessory: 258)
+июн. 22, 2020 9:05:03 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 77(Body: 242, Engine: 240, Accessory: 259)
+июн. 22, 2020 9:05:05 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 82(Body: 230, Engine: 226, Accessory: 275)
+июн. 22, 2020 9:05:05 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 83(Body: 231, Engine: 228, Accessory: 276)
+июн. 22, 2020 9:05:05 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 80(Body: 204, Engine: 202, Accessory: 273)
+июн. 22, 2020 9:05:05 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 84(Body: 234, Engine: 233, Accessory: 277)
+июн. 22, 2020 9:05:05 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 81(Body: 252, Engine: 249, Accessory: 274)
+июн. 22, 2020 9:05:07 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 86(Body: 220, Engine: 216, Accessory: 298)
+июн. 22, 2020 9:05:07 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 89(Body: 248, Engine: 247, Accessory: 301)
+июн. 22, 2020 9:05:07 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 88(Body: 267, Engine: 268, Accessory: 298)
+июн. 22, 2020 9:05:07 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 87(Body: 246, Engine: 245, Accessory: 299)
+июн. 22, 2020 9:05:07 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 85(Body: 243, Engine: 243, Accessory: 297)
+июн. 22, 2020 9:05:09 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 90(Body: 253, Engine: 250, Accessory: 321)
+июн. 22, 2020 9:05:09 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 94(Body: 257, Engine: 255, Accessory: 325)
+июн. 22, 2020 9:05:09 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 92(Body: 281, Engine: 279, Accessory: 324)
+июн. 22, 2020 9:05:09 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 93(Body: 284, Engine: 282, Accessory: 323)
+июн. 22, 2020 9:05:09 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 91(Body: 252, Engine: 251, Accessory: 322)
+июн. 22, 2020 9:05:11 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 95(Body: 265, Engine: 263, Accessory: 346)
+июн. 22, 2020 9:05:11 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 99(Body: 272, Engine: 271, Accessory: 349)
+июн. 22, 2020 9:05:11 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 98(Body: 292, Engine: 293, Accessory: 347)
+июн. 22, 2020 9:05:11 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 97(Body: 291, Engine: 289, Accessory: 348)
+июн. 22, 2020 9:05:11 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 96(Body: 266, Engine: 264, Accessory: 347)
+июн. 22, 2020 9:05:13 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 102(Body: 256, Engine: 254, Accessory: 371)
+июн. 22, 2020 9:05:13 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 100(Body: 280, Engine: 278, Accessory: 370)
+июн. 22, 2020 9:05:13 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 103(Body: 308, Engine: 306, Accessory: 372)
+июн. 22, 2020 9:05:13 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 101(Body: 304, Engine: 302, Accessory: 371)
+июн. 22, 2020 9:05:13 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 104(Body: 287, Engine: 286, Accessory: 373)
+июн. 22, 2020 9:05:15 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 105(Body: 290, Engine: 288, Accessory: 384)
+июн. 22, 2020 9:05:15 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 106(Body: 313, Engine: 311, Accessory: 385)
+июн. 22, 2020 9:05:15 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 107(Body: 270, Engine: 269, Accessory: 385)
+июн. 22, 2020 9:05:15 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 108(Body: 315, Engine: 316, Accessory: 383)
+июн. 22, 2020 9:05:15 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 109(Body: 318, Engine: 317, Accessory: 387)
+июн. 22, 2020 9:05:17 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 110(Body: 305, Engine: 303, Accessory: 408)
+июн. 22, 2020 9:05:17 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 111(Body: 285, Engine: 283, Accessory: 409)
+июн. 22, 2020 9:05:17 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 112(Body: 309, Engine: 307, Accessory: 410)
+июн. 22, 2020 9:05:17 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 113(Body: 232, Engine: 229, Accessory: 411)
+июн. 22, 2020 9:05:17 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 114(Body: 310, Engine: 307, Accessory: 412)
+июн. 22, 2020 9:05:19 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 115(Body: 314, Engine: 312, Accessory: 423)
+июн. 22, 2020 9:05:19 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 116(Body: 295, Engine: 294, Accessory: 424)
+июн. 22, 2020 9:05:19 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 117(Body: 320, Engine: 319, Accessory: 425)
+июн. 22, 2020 9:05:19 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 118(Body: 223, Engine: 219, Accessory: 426)
+июн. 22, 2020 9:05:19 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 119(Body: 296, Engine: 294, Accessory: 427)
+июн. 22, 2020 9:05:21 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 120(Body: 328, Engine: 326, Accessory: 448)
+июн. 22, 2020 9:05:21 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 121(Body: 329, Engine: 327, Accessory: 449)
+июн. 22, 2020 9:05:21 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 122(Body: 330, Engine: 332, Accessory: 450)
+июн. 22, 2020 9:05:21 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 123(Body: 331, Engine: 333, Accessory: 451)
+июн. 22, 2020 9:05:21 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 124(Body: 335, Engine: 334, Accessory: 452)
+июн. 22, 2020 9:05:23 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 125(Body: 338, Engine: 336, Accessory: 473)
+июн. 22, 2020 9:05:23 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 126(Body: 339, Engine: 337, Accessory: 474)
+июн. 22, 2020 9:05:23 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 127(Body: 341, Engine: 340, Accessory: 475)
+июн. 22, 2020 9:05:23 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 128(Body: 344, Engine: 342, Accessory: 476)
+июн. 22, 2020 9:05:23 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 129(Body: 345, Engine: 343, Accessory: 477)
+июн. 22, 2020 9:05:25 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 130(Body: 352, Engine: 350, Accessory: 498)
+июн. 22, 2020 9:05:25 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 131(Body: 353, Engine: 351, Accessory: 499)
+июн. 22, 2020 9:05:25 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 132(Body: 354, Engine: 356, Accessory: 500)
+июн. 22, 2020 9:05:25 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 133(Body: 355, Engine: 357, Accessory: 501)
+июн. 22, 2020 9:05:25 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 134(Body: 359, Engine: 358, Accessory: 502)
+июн. 22, 2020 9:05:27 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 135(Body: 362, Engine: 360, Accessory: 523)
+июн. 22, 2020 9:05:27 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 136(Body: 363, Engine: 361, Accessory: 524)
+июн. 22, 2020 9:05:27 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 137(Body: 367, Engine: 364, Accessory: 525)
+июн. 22, 2020 9:05:27 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 138(Body: 368, Engine: 365, Accessory: 526)
+июн. 22, 2020 9:05:27 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 139(Body: 369, Engine: 366, Accessory: 527)
+июн. 22, 2020 9:05:29 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 140(Body: 376, Engine: 374, Accessory: 538)
+июн. 22, 2020 9:05:29 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 141(Body: 377, Engine: 375, Accessory: 539)
+июн. 22, 2020 9:05:29 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 142(Body: 380, Engine: 378, Accessory: 540)
+июн. 22, 2020 9:05:29 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 143(Body: 379, Engine: 379, Accessory: 541)
+июн. 22, 2020 9:05:29 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 144(Body: 382, Engine: 381, Accessory: 542)
+июн. 22, 2020 9:05:31 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 145(Body: 390, Engine: 388, Accessory: 563)
+июн. 22, 2020 9:05:31 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 146(Body: 391, Engine: 389, Accessory: 564)
+июн. 22, 2020 9:05:31 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 147(Body: 393, Engine: 392, Accessory: 565)
+июн. 22, 2020 9:05:31 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 148(Body: 394, Engine: 395, Accessory: 566)
+июн. 22, 2020 9:05:31 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 149(Body: 397, Engine: 396, Accessory: 567)
+июн. 22, 2020 9:05:33 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 150(Body: 402, Engine: 398, Accessory: 588)
+июн. 22, 2020 9:05:33 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 151(Body: 403, Engine: 399, Accessory: 589)
+июн. 22, 2020 9:05:33 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 152(Body: 405, Engine: 400, Accessory: 590)
+июн. 22, 2020 9:05:33 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 153(Body: 406, Engine: 401, Accessory: 591)
+июн. 22, 2020 9:05:33 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 154(Body: 407, Engine: 404, Accessory: 592)
+июн. 22, 2020 9:05:35 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 155(Body: 417, Engine: 413, Accessory: 613)
+июн. 22, 2020 9:05:35 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 156(Body: 418, Engine: 414, Accessory: 614)
+июн. 22, 2020 9:05:35 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 157(Body: 419, Engine: 415, Accessory: 615)
+июн. 22, 2020 9:05:35 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 158(Body: 422, Engine: 416, Accessory: 616)
+июн. 22, 2020 9:05:35 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 159(Body: 421, Engine: 420, Accessory: 617)
+июн. 22, 2020 9:05:37 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 160(Body: 432, Engine: 428, Accessory: 637)
+июн. 22, 2020 9:05:37 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 161(Body: 433, Engine: 429, Accessory: 638)
+июн. 22, 2020 9:05:37 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 162(Body: 434, Engine: 430, Accessory: 639)
+июн. 22, 2020 9:05:37 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 163(Body: 436, Engine: 431, Accessory: 640)
+июн. 22, 2020 9:05:37 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 164(Body: 437, Engine: 435, Accessory: 641)
+июн. 22, 2020 9:05:39 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 165(Body: 442, Engine: 438, Accessory: 661)
+июн. 22, 2020 9:05:39 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 166(Body: 443, Engine: 439, Accessory: 662)
+июн. 22, 2020 9:05:39 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 167(Body: 445, Engine: 440, Accessory: 663)
+июн. 22, 2020 9:05:39 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 168(Body: 446, Engine: 441, Accessory: 664)
+июн. 22, 2020 9:05:39 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 169(Body: 447, Engine: 444, Accessory: 665)
+июн. 22, 2020 9:05:41 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 170(Body: 458, Engine: 453, Accessory: 676)
+июн. 22, 2020 9:05:41 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 171(Body: 457, Engine: 454, Accessory: 677)
+июн. 22, 2020 9:05:41 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 172(Body: 460, Engine: 455, Accessory: 678)
+июн. 22, 2020 9:05:41 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 173(Body: 461, Engine: 455, Accessory: 679)
+июн. 22, 2020 9:05:41 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 174(Body: 462, Engine: 459, Accessory: 680)
+июн. 22, 2020 9:05:43 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 175(Body: 468, Engine: 463, Accessory: 700)
+июн. 22, 2020 9:05:43 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 176(Body: 467, Engine: 464, Accessory: 701)
+июн. 22, 2020 9:05:43 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 177(Body: 470, Engine: 465, Accessory: 702)
+июн. 22, 2020 9:05:43 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 178(Body: 472, Engine: 466, Accessory: 703)
+июн. 22, 2020 9:05:43 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 179(Body: 471, Engine: 468, Accessory: 704)
+июн. 22, 2020 9:05:45 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 180(Body: 483, Engine: 478, Accessory: 725)
+июн. 22, 2020 9:05:45 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 181(Body: 484, Engine: 479, Accessory: 726)
+июн. 22, 2020 9:05:45 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 182(Body: 485, Engine: 480, Accessory: 727)
+июн. 22, 2020 9:05:45 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 183(Body: 486, Engine: 481, Accessory: 728)
+июн. 22, 2020 9:05:45 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 184(Body: 487, Engine: 482, Accessory: 729)
+июн. 22, 2020 9:05:47 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 185(Body: 492, Engine: 488, Accessory: 750)
+июн. 22, 2020 9:05:47 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 186(Body: 494, Engine: 489, Accessory: 751)
+июн. 22, 2020 9:05:47 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 187(Body: 495, Engine: 490, Accessory: 752)
+июн. 22, 2020 9:05:47 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 188(Body: 496, Engine: 491, Accessory: 753)
+июн. 22, 2020 9:05:47 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 189(Body: 497, Engine: 493, Accessory: 754)
+июн. 22, 2020 9:05:49 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 190(Body: 508, Engine: 503, Accessory: 774)
+июн. 22, 2020 9:05:49 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 191(Body: 509, Engine: 504, Accessory: 775)
+июн. 22, 2020 9:05:49 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 192(Body: 510, Engine: 505, Accessory: 776)
+июн. 22, 2020 9:05:49 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 193(Body: 511, Engine: 506, Accessory: 777)
+июн. 22, 2020 9:05:49 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 194(Body: 512, Engine: 507, Accessory: 778)
+июн. 22, 2020 9:05:51 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 195(Body: 517, Engine: 513, Accessory: 789)
+июн. 22, 2020 9:05:51 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 196(Body: 518, Engine: 514, Accessory: 790)
+июн. 22, 2020 9:05:51 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 197(Body: 520, Engine: 515, Accessory: 791)
+июн. 22, 2020 9:05:51 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 198(Body: 521, Engine: 516, Accessory: 792)
+июн. 22, 2020 9:05:51 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 199(Body: 522, Engine: 518, Accessory: 793)
+июн. 22, 2020 9:05:52 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 200(Body: 529, Engine: 528, Accessory: 803)
+июн. 22, 2020 9:05:52 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 201(Body: 531, Engine: 530, Accessory: 804)
+июн. 22, 2020 9:05:52 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 202(Body: 532, Engine: 533, Accessory: 805)
+июн. 22, 2020 9:05:52 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 203(Body: 536, Engine: 535, Accessory: 806)
+июн. 22, 2020 9:05:52 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 204(Body: 537, Engine: 534, Accessory: 807)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 205(Body: 545, Engine: 543, Accessory: 817)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 206(Body: 545, Engine: 544, Accessory: 818)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 207(Body: 550, Engine: 547, Accessory: 819)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 208(Body: 551, Engine: 548, Accessory: 820)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 209(Body: 552, Engine: 549, Accessory: 821)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 210(Body: 554, Engine: 553, Accessory: 822)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 211(Body: 558, Engine: 555, Accessory: 823)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 212(Body: 559, Engine: 556, Accessory: 824)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 213(Body: 561, Engine: 557, Accessory: 825)
+июн. 22, 2020 9:05:53 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 214(Body: 562, Engine: 560, Accessory: 826)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 215(Body: 571, Engine: 568, Accessory: 827)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 216(Body: 570, Engine: 569, Accessory: 828)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 217(Body: 572, Engine: 573, Accessory: 830)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 218(Body: 576, Engine: 574, Accessory: 840)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 219(Body: 577, Engine: 574, Accessory: 841)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 220(Body: 579, Engine: 578, Accessory: 842)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 221(Body: 580, Engine: 581, Accessory: 843)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 222(Body: 584, Engine: 582, Accessory: 844)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 223(Body: 587, Engine: 583, Accessory: 845)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 224(Body: 586, Engine: 585, Accessory: 846)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 225(Body: 594, Engine: 593, Accessory: 847)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 226(Body: 596, Engine: 595, Accessory: 848)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 227(Body: 599, Engine: 597, Accessory: 849)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 228(Body: 601, Engine: 598, Accessory: 850)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 229(Body: 602, Engine: 600, Accessory: 851)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 230(Body: 604, Engine: 603, Accessory: 852)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 231(Body: 606, Engine: 605, Accessory: 853)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 232(Body: 609, Engine: 608, Accessory: 854)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 233(Body: 611, Engine: 605, Accessory: 855)
+июн. 22, 2020 9:05:54 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 234(Body: 612, Engine: 610, Accessory: 856)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 235(Body: 620, Engine: 618, Accessory: 857)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 236(Body: 622, Engine: 619, Accessory: 858)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 237(Body: 623, Engine: 621, Accessory: 859)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 238(Body: 625, Engine: 622, Accessory: 860)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 239(Body: 626, Engine: 624, Accessory: 861)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 240(Body: 630, Engine: 627, Accessory: 862)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 241(Body: 631, Engine: 628, Accessory: 863)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 242(Body: 632, Engine: 629, Accessory: 864)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 243(Body: 636, Engine: 633, Accessory: 865)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 244(Body: 635, Engine: 634, Accessory: 866)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 245(Body: 645, Engine: 642, Accessory: 877)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 246(Body: 646, Engine: 643, Accessory: 878)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 247(Body: 647, Engine: 644, Accessory: 879)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 248(Body: 649, Engine: 645, Accessory: 880)
+июн. 22, 2020 9:05:55 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 249(Body: 650, Engine: 648, Accessory: 881)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 250(Body: 653, Engine: 651, Accessory: 882)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 251(Body: 657, Engine: 652, Accessory: 883)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 252(Body: 654, Engine: 655, Accessory: 884)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 253(Body: 659, Engine: 654, Accessory: 885)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 254(Body: 660, Engine: 658, Accessory: 886)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 255(Body: 668, Engine: 666, Accessory: 887)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 256(Body: 671, Engine: 667, Accessory: 888)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 257(Body: 673, Engine: 669, Accessory: 889)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 258(Body: 675, Engine: 669, Accessory: 890)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 259(Body: 674, Engine: 671, Accessory: 891)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 260(Body: 682, Engine: 681, Accessory: 892)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 261(Body: 684, Engine: 683, Accessory: 893)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 262(Body: 686, Engine: 684, Accessory: 894)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 263(Body: 688, Engine: 687, Accessory: 895)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 264(Body: 689, Engine: 683, Accessory: 896)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 265(Body: 693, Engine: 690, Accessory: 897)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 266(Body: 695, Engine: 691, Accessory: 898)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 267(Body: 696, Engine: 692, Accessory: 899)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 268(Body: 698, Engine: 694, Accessory: 900)
+июн. 22, 2020 9:05:56 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 269(Body: 699, Engine: 696, Accessory: 901)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 270(Body: 707, Engine: 705, Accessory: 902)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 271(Body: 709, Engine: 707, Accessory: 904)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 272(Body: 710, Engine: 706, Accessory: 914)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 273(Body: 713, Engine: 710, Accessory: 915)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 274(Body: 714, Engine: 712, Accessory: 916)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 275(Body: 718, Engine: 715, Accessory: 917)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 276(Body: 721, Engine: 716, Accessory: 918)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 277(Body: 722, Engine: 717, Accessory: 919)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 278(Body: 723, Engine: 719, Accessory: 920)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 279(Body: 724, Engine: 720, Accessory: 921)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 280(Body: 732, Engine: 730, Accessory: 922)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 281(Body: 735, Engine: 731, Accessory: 923)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 282(Body: 736, Engine: 733, Accessory: 924)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 283(Body: 738, Engine: 734, Accessory: 925)
+июн. 22, 2020 9:05:57 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 284(Body: 739, Engine: 737, Accessory: 926)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 285(Body: 744, Engine: 740, Accessory: 927)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 286(Body: 745, Engine: 741, Accessory: 928)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 287(Body: 745, Engine: 742, Accessory: 929)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 288(Body: 748, Engine: 742, Accessory: 930)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 289(Body: 749, Engine: 747, Accessory: 931)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 290(Body: 756, Engine: 755, Accessory: 932)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 291(Body: 758, Engine: 757, Accessory: 933)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 292(Body: 759, Engine: 759, Accessory: 934)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 293(Body: 762, Engine: 760, Accessory: 935)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 294(Body: 763, Engine: 761, Accessory: 936)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 295(Body: 768, Engine: 764, Accessory: 937)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 296(Body: 770, Engine: 765, Accessory: 938)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 297(Body: 771, Engine: 766, Accessory: 939)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 298(Body: 772, Engine: 767, Accessory: 940)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 299(Body: 773, Engine: 769, Accessory: 941)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 300(Body: 781, Engine: 779, Accessory: 952)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 301(Body: 784, Engine: 780, Accessory: 953)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 302(Body: 781, Engine: 782, Accessory: 954)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 303(Body: 787, Engine: 785, Accessory: 955)
+июн. 22, 2020 9:05:58 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 304(Body: 788, Engine: 786, Accessory: 956)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 305(Body: 795, Engine: 794, Accessory: 957)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 306(Body: 797, Engine: 796, Accessory: 958)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 307(Body: 799, Engine: 797, Accessory: 959)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 308(Body: 801, Engine: 798, Accessory: 960)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 309(Body: 802, Engine: 800, Accessory: 961)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 310(Body: 809, Engine: 808, Accessory: 962)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 311(Body: 811, Engine: 810, Accessory: 963)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 312(Body: 812, Engine: 813, Accessory: 964)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 313(Body: 815, Engine: 813, Accessory: 965)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 314(Body: 816, Engine: 814, Accessory: 966)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 315(Body: 833, Engine: 829, Accessory: 967)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 316(Body: 836, Engine: 831, Accessory: 968)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 317(Body: 837, Engine: 832, Accessory: 969)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 318(Body: 838, Engine: 834, Accessory: 970)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 319(Body: 839, Engine: 835, Accessory: 971)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 320(Body: 869, Engine: 867, Accessory: 972)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 321(Body: 871, Engine: 868, Accessory: 973)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 322(Body: 873, Engine: 869, Accessory: 974)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 323(Body: 875, Engine: 872, Accessory: 975)
+июн. 22, 2020 9:05:59 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 324(Body: 876, Engine: 874, Accessory: 976)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 325(Body: 905, Engine: 903, Accessory: 978)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 326(Body: 907, Engine: 906, Accessory: 979)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 327(Body: 909, Engine: 908, Accessory: 989)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 328(Body: 912, Engine: 910, Accessory: 990)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 329(Body: 913, Engine: 911, Accessory: 991)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 330(Body: 944, Engine: 942, Accessory: 992)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 331(Body: 947, Engine: 943, Accessory: 993)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 332(Body: 948, Engine: 946, Accessory: 994)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 333(Body: 949, Engine: 945, Accessory: 995)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 334(Body: 951, Engine: 950, Accessory: 996)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 335(Body: 980, Engine: 977, Accessory: 997)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 336(Body: 984, Engine: 982, Accessory: 998)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 337(Body: 981, Engine: 983, Accessory: 999)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 338(Body: 986, Engine: 985, Accessory: 1000)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 339(Body: 988, Engine: 987, Accessory: 1001)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 340(Body: 1014, Engine: 1012, Accessory: 1002)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 341(Body: 1017, Engine: 1013, Accessory: 1003)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 342(Body: 1017, Engine: 1015, Accessory: 1004)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 343(Body: 1019, Engine: 1016, Accessory: 1005)
+июн. 22, 2020 9:06:00 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 344(Body: 1020, Engine: 1021, Accessory: 1006)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 345(Body: 1033, Engine: 1032, Accessory: 1007)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 346(Body: 1038, Engine: 1034, Accessory: 1008)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 347(Body: 1035, Engine: 1036, Accessory: 1009)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 348(Body: 1040, Engine: 1037, Accessory: 1010)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 349(Body: 1041, Engine: 1039, Accessory: 1011)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 351(Body: 1050, Engine: 1048, Accessory: 1023)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 352(Body: 1052, Engine: 1049, Accessory: 1024)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 350(Body: 1051, Engine: 1047, Accessory: 1022)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 354(Body: 1056, Engine: 1054, Accessory: 1026)
+июн. 22, 2020 9:06:01 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 353(Body: 1055, Engine: 1053, Accessory: 1025)
+июн. 22, 2020 9:06:02 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 355(Body: 1063, Engine: 1062, Accessory: 1027)
+июн. 22, 2020 9:06:02 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 356(Body: 1066, Engine: 1064, Accessory: 1028)
+июн. 22, 2020 9:06:02 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 357(Body: 1068, Engine: 1065, Accessory: 1029)
+июн. 22, 2020 9:06:02 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 359(Body: 1071, Engine: 1069, Accessory: 1031)
+июн. 22, 2020 9:06:02 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 358(Body: 1070, Engine: 1067, Accessory: 1030)
+июн. 22, 2020 9:06:03 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 360(Body: 1079, Engine: 1077, Accessory: 1042)
+июн. 22, 2020 9:06:03 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 361(Body: 1081, Engine: 1078, Accessory: 1043)
+июн. 22, 2020 9:06:03 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 362(Body: 1082, Engine: 1079, Accessory: 1044)
+июн. 22, 2020 9:06:03 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 364(Body: 1086, Engine: 1084, Accessory: 1046)
+июн. 22, 2020 9:06:03 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 363(Body: 1085, Engine: 1083, Accessory: 1045)
+июн. 22, 2020 9:06:05 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 366(Body: 1096, Engine: 1094, Accessory: 1058)
+июн. 22, 2020 9:06:05 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 365(Body: 1093, Engine: 1092, Accessory: 1057)
+июн. 22, 2020 9:06:05 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 367(Body: 1095, Engine: 1095, Accessory: 1059)
+июн. 22, 2020 9:06:05 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 369(Body: 1099, Engine: 1100, Accessory: 1061)
+июн. 22, 2020 9:06:05 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 368(Body: 1098, Engine: 1097, Accessory: 1060)
+июн. 22, 2020 9:06:06 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 370(Body: 1103, Engine: 1101, Accessory: 1072)
+июн. 22, 2020 9:06:06 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 372(Body: 1107, Engine: 1105, Accessory: 1074)
+июн. 22, 2020 9:06:06 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 371(Body: 1104, Engine: 1102, Accessory: 1073)
+июн. 22, 2020 9:06:06 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 373(Body: 1108, Engine: 1106, Accessory: 1075)
+июн. 22, 2020 9:06:06 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 374(Body: 1109, Engine: 1110, Accessory: 1076)
+июн. 22, 2020 9:06:07 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 375(Body: 1118, Engine: 1116, Accessory: 1087)
+июн. 22, 2020 9:06:07 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 377(Body: 1122, Engine: 1119, Accessory: 1089)
+июн. 22, 2020 9:06:07 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 376(Body: 1121, Engine: 1117, Accessory: 1088)
+июн. 22, 2020 9:06:07 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 379(Body: 1125, Engine: 1123, Accessory: 1091)
+июн. 22, 2020 9:06:07 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 378(Body: 1124, Engine: 1120, Accessory: 1090)
+июн. 22, 2020 9:06:08 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 380(Body: 1128, Engine: 1127, Accessory: 1111)
+июн. 22, 2020 9:06:08 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 381(Body: 1131, Engine: 1129, Accessory: 1112)
+июн. 22, 2020 9:06:08 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 382(Body: 1130, Engine: 1132, Accessory: 1113)
+июн. 22, 2020 9:06:08 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 383(Body: 1136, Engine: 1133, Accessory: 1114)
+июн. 22, 2020 9:06:08 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 384(Body: 1137, Engine: 1135, Accessory: 1115)
+июн. 22, 2020 9:06:09 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 385(Body: 1143, Engine: 1141, Accessory: 1126)
+июн. 22, 2020 9:06:09 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 386(Body: 1143, Engine: 1142, Accessory: 1134)
+июн. 22, 2020 9:06:09 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 387(Body: 1147, Engine: 1145, Accessory: 1138)
+июн. 22, 2020 9:06:09 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 388(Body: 1149, Engine: 1146, Accessory: 1139)
+июн. 22, 2020 9:06:09 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 389(Body: 1150, Engine: 1148, Accessory: 1140)
+июн. 22, 2020 9:06:10 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 390(Body: 1157, Engine: 1156, Accessory: 1151)
+июн. 22, 2020 9:06:10 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 391(Body: 1160, Engine: 1158, Accessory: 1152)
+июн. 22, 2020 9:06:10 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 392(Body: 1162, Engine: 1161, Accessory: 1153)
+июн. 22, 2020 9:06:10 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 393(Body: 1163, Engine: 1158, Accessory: 1154)
+июн. 22, 2020 9:06:10 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 394(Body: 1164, Engine: 1164, Accessory: 1155)
+июн. 22, 2020 9:06:11 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 395(Body: 1174, Engine: 1170, Accessory: 1165)
+июн. 22, 2020 9:06:11 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 396(Body: 1175, Engine: 1171, Accessory: 1166)
+июн. 22, 2020 9:06:11 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 397(Body: 1176, Engine: 1172, Accessory: 1167)
+июн. 22, 2020 9:06:11 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 398(Body: 1177, Engine: 1173, Accessory: 1168)
+июн. 22, 2020 9:06:11 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 399(Body: 1178, Engine: 1179, Accessory: 1169)
+июн. 22, 2020 9:06:12 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 400(Body: 1187, Engine: 1185, Accessory: 1180)
+июн. 22, 2020 9:06:12 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 401(Body: 1187, Engine: 1186, Accessory: 1181)
+июн. 22, 2020 9:06:12 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 402(Body: 1191, Engine: 1189, Accessory: 1182)
+июн. 22, 2020 9:06:12 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 403(Body: 1192, Engine: 1190, Accessory: 1183)
+июн. 22, 2020 9:06:12 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 404(Body: 1193, Engine: 1194, Accessory: 1184)
+июн. 22, 2020 9:06:13 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 405(Body: 1201, Engine: 1200, Accessory: 1195)
+июн. 22, 2020 9:06:13 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 406(Body: 1203, Engine: 1202, Accessory: 1196)
+июн. 22, 2020 9:06:13 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 407(Body: 1206, Engine: 1204, Accessory: 1197)
+июн. 22, 2020 9:06:13 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 408(Body: 1207, Engine: 1205, Accessory: 1198)
+июн. 22, 2020 9:06:13 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 409(Body: 1208, Engine: 1209, Accessory: 1199)
+июн. 22, 2020 9:06:14 AM sample.factory.Dealer run
+INFO: Dealer 9: Auto 410(Body: 1219, Engine: 1215, Accessory: 1210)
+июн. 22, 2020 9:06:14 AM sample.factory.Dealer run
+INFO: Dealer 10: Auto 411(Body: 1220, Engine: 1216, Accessory: 1211)
+июн. 22, 2020 9:06:14 AM sample.factory.Dealer run
+INFO: Dealer 8: Auto 412(Body: 1221, Engine: 1217, Accessory: 1212)
+июн. 22, 2020 9:06:14 AM sample.factory.Dealer run
+INFO: Dealer 5: Auto 413(Body: 1223, Engine: 1218, Accessory: 1213)
+июн. 22, 2020 9:06:14 AM sample.factory.Dealer run
+INFO: Dealer 3: Auto 414(Body: 1224, Engine: 1222, Accessory: 1214)
+июн. 22, 2020 9:06:16 AM sample.factory.Dealer run
+INFO: Dealer 1: Auto 415(Body: 1231, Engine: 1230, Accessory: 1225)
+июн. 22, 2020 9:06:16 AM sample.factory.Dealer run
+INFO: Dealer 6: Auto 416(Body: 1234, Engine: 1232, Accessory: 1226)
+июн. 22, 2020 9:06:16 AM sample.factory.Dealer run
+INFO: Dealer 4: Auto 417(Body: 1236, Engine: 1233, Accessory: 1227)
+июн. 22, 2020 9:06:16 AM sample.factory.Dealer run
+INFO: Dealer 2: Auto 419(Body: 1239, Engine: 1237, Accessory: 1229)
+июн. 22, 2020 9:06:16 AM sample.factory.Dealer run
+INFO: Dealer 7: Auto 418(Body: 1238, Engine: 1235, Accessory: 1228)
+июн. 22, 2020 9:06:17 AM sample.factory.Dealer run
+INFO: Dealer 0: Auto 420(Body: 1247, Engine: 1245, Accessory: 1240)
+июн. 22, 2020 9:06:17 AM sample.factory.Dealer run
+INFO: Dealer 18: Auto 421(Body: 1249, Engine: 1246, Accessory: 1241)
+июн. 22, 2020 9:06:17 AM sample.factory.Dealer run
+INFO: Dealer 14: Auto 422(Body: 1251, Engine: 1248, Accessory: 1242)
+июн. 22, 2020 9:06:17 AM sample.factory.Dealer run
+INFO: Dealer 19: Auto 423(Body: 1253, Engine: 1250, Accessory: 1243)
+июн. 22, 2020 9:06:17 AM sample.factory.Dealer run
+INFO: Dealer 16: Auto 424(Body: 1255, Engine: 1254, Accessory: 1244)
+июн. 22, 2020 9:06:18 AM sample.factory.Dealer run
+INFO: Dealer 17: Auto 426(Body: 1266, Engine: 1262, Accessory: 1256)
+июн. 22, 2020 9:06:18 AM sample.factory.Dealer run
+INFO: Dealer 11: Auto 425(Body: 1265, Engine: 1261, Accessory: 1252)
+июн. 22, 2020 9:06:18 AM sample.factory.Dealer run
+INFO: Dealer 12: Auto 427(Body: 1267, Engine: 1263, Accessory: 1257)
+июн. 22, 2020 9:06:18 AM sample.factory.Dealer run
+INFO: Dealer 13: Auto 428(Body: 1269, Engine: 1264, Accessory: 1258)
+июн. 22, 2020 9:06:18 AM sample.factory.Dealer run
+INFO: Dealer 15: Auto 429(Body: 1271, Engine: 1270, Accessory: 1259)
